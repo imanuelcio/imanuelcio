@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cio and I'm a Software Developer, from Jakarta</h2>
+.<h2 align="left">Hi 👋! My name is Cio and I'm a Software Developer, from Jakarta</h2>
 
 ###
 
@@ -8,8 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="153" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
